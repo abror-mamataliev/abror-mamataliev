@@ -7,6 +7,9 @@ I am a programmer from Uzbekistan
 
 #### Top Repositories
 
-<a href="https://github.com/abrornomos/mydentist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abrornomos&repo=mydentist&theme=buefy" />
+<a href="https://github.com/BlurCode-LLC/mydentist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlurCode-LLC&repo=mydentist&theme=buefy" />
+</a>
+<a href="https://github.com/BlurCode-LLC/oriensuz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlurCode-LLC&repo=oriensuz&theme=buefy" />
 </a>
