@@ -8,15 +8,6 @@
 
 #### WakaTime Stats
 
-<a href="https://wakatime.com/@abror-mamataliev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abror-mamataliev&theme=github_dark" />
-</a>
-
-#### Top Repositories
-
-<a href="https://github.com/BlurCode-LLC/mydentist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlurCode-LLC&repo=mydentist&theme=github_dark" />
-</a>
-<a href="https://github.com/BlurCode-LLC/oriensuz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlurCode-LLC&repo=oriensuz&theme=github_dark" />
+<a href="https://wakatime.com/@abror_mamataliev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=abror_mamataliev&theme=github_dark" />
 </a>
